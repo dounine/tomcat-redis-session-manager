@@ -1,8 +1,6 @@
 <h2>
- Redis Session Manager for Apache Tomcat (tomcat会话共享)
-</h2>
-<br/>
-<br/>
+ Redis Session Manager for Apache Tomcat (tomcat会话共享)<br/><br/>
+<h2>
 <br/>
 <hr/>
 **以下是tomcat/conf/content.xml 中的配置**
