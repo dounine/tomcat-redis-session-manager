@@ -19,7 +19,7 @@
 <br/>
 <hr/>
 **复制以下这些包(/WebContent/WEB-INF/lib)到/tomcat/lib目录中:**
-<br/>
+<br/><br/>
 commons-logging-1.1.3.jar<br/>
 redis-tomcat8-session.jar<br/>
 jedis-2.5.2.jar<br/>
