@@ -5,7 +5,7 @@
 <hr/>
 **以下是tomcat/conf/content.xml 中的配置**
 <br/>
-`<Valve className="com.orangefunction.tomcat.redissessions.RedisSessionHandlerValve" />
+<Valve className="com.orangefunction.tomcat.redissessions.RedisSessionHandlerValve" />
 <br/>
 <Manager className="com.orangefunction.tomcat.redissessions.RedisSessionManager"<br/>
          host="localhost" <!-- optional: defaults to "localhost" --><br/>
@@ -14,7 +14,7 @@
          maxInactiveInterval="60" <!-- optional: defaults to "60" (in seconds) --><br/>
          sessionPersistPolicies="PERSIST_POLICY_1,PERSIST_POLICY_2,.." <!-- optional --><br/>
          sentinelMaster="SentinelMasterName" <!-- optional --><br/>
-         sentinels="sentinel-host-1:port,sentinel-host-2:port,.." <!-- optional --> />`<br/>
+         sentinels="sentinel-host-1:port,sentinel-host-2:port,.." <!-- optional --> /><br/>
 <br/>
 <hr/>
 **复制以下这些包(/WebContent/WEB-INF/lib)到/tomcat/lib目录中:**
