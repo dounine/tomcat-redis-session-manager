@@ -1,5 +1,5 @@
 
- **_Redis Session Manager for Apache Tomcat (tomcat会话共享)_**
+ <h2>Redis Session Manager for Apache Tomcat6~8 (tomcat6~8会话共享)</h2>
 <br/>
 <br/>
 <hr/>
